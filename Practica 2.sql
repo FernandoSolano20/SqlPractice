@@ -39,6 +39,6 @@ INSERT INTO employee VALUES (26, 'Sara', 'de Lillo', 'saradelillo@gmail.com', 85
 /***
 1- Crear un clustered index compuesto por el nombre descentemente y apellido ascendentemente y realizar la consulta
 2- Crear un uncluster index para el salario
-3- Hacer una consulta para obtener los empleados con los salarios mayores a 5000
-4- Hacer un noncluster del inner join entre empleados y departamentos 
+3- Hacer un noncluster del inner join entre empleados y departamentos 
+4- Hacer una consulta para obtener el nombre, apellidos y departamento de los empleados con los salarios mayores a 5000
 ***/
